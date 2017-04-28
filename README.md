@@ -8,3 +8,6 @@ ya me enterado de algo
 *ferran
 _puig_
 feixa*
+- ferran
+- maria
+- marc
