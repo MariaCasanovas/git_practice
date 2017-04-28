@@ -1,3 +1,3 @@
 # git_practice
 
-Yuri ----
+Hello world
