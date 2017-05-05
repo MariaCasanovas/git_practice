@@ -13,7 +13,7 @@ feixa*
 - marc
 
 
-#Como iniciar un Docker Compose
+# Como iniciar un Docker Compose
 
 1. Vamos a la carpeta donde se ubica el docker-compose.yml
 2. Iniciamos Docker Compose con: 
